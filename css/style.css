@@ -552,6 +552,10 @@ img {
     flex-wrap: nowrap;
     gap: 24px;
   }
+
+  .standarts-item:nth-child(-n + 2) {
+    margin-bottom: 0;
+  }
 }
 
 .standarts-item-icon-container {
